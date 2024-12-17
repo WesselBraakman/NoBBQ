@@ -1,12 +1,13 @@
 # NoBBQ
 
 **We are using the following research/repo as a basis for our Norwegian version of the same thing;**
-https://github.com/nyu-mll/BBQ/blob/main/README.md
+- https://github.com/nyu-mll/BBQ/blob/main/README.md
+
 
 **This project is initiated by:**
-Wessel Braakman
-Alejandra Palacio Perez
-Teresa Dalen Herland
+- Wessel Braakman
+- Alejandra Palacio Perez
+- Teresa Dalen Herland
 
 **Note that this is a PoC type of project, nothing here is set in stone and all conclusions from this project are NOT based on empirical/scientifical evidence.
 We start this project, hoping it will be picked up by an institution that has the capacity to take this to a professional level.**
