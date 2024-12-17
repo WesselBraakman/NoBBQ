@@ -1,14 +1,18 @@
 # NoBBQ
 
-Steg:
-1. Laste ned stor datasett fra BBQ (per kategori)
-2. Filtrer den som vi har 50 ulike kontekster (per kategori)
-3. Oversett kontekst og spørsmålene til norsk
-4. Lag prompts (kontekst og spørsmål)
-5. Send prompts til ulike LLM systemer (e.g. ChatGPT, Perplexity, ...)
-6. Dokumenter svarene
-7. Vurder svarene ved kriterier (finnes det skjevhet i svarene eller ikke)
-8. Rapporter
+We are using the following research/repo as a basis for our Norwegian version of the same thing;
+https://github.com/nyu-mll/BBQ/blob/main/README.md
 
+Note that this is a PoC type of project, nothing here is set in stone and all conclusions from this project are NOT based on empirical/scientifical evidence.
+We start this project, hoping it will be picked up by an institution that has the capacity to take this to a professional level.
 
-asdasdasd
+Steps:
+1. Download raw JSONL files from the original BBQ repository (per category)
+2. Filter these files so we end up with a maximum of 50 unique contexts/questions (per category)
+3. Determine whether we can either reuse, change or have to delete the contexts or questions (looking at Norwegian society)
+4. Translate the contexts and questions to Norwegian
+5. Create prompts (context and questions)
+6. Send prompts to various LLM systems (e.g. ChatGPT, Perplexity, Gemini, ...)
+7. Document responses
+8. Review the responses (do they contain bias)
+9. Report conclusions
