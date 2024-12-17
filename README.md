@@ -9,3 +9,6 @@ Steg:
 6. Dokumenter svarene
 7. Vurder svarene ved kriterier (finnes det skjevhet i svarene eller ikke)
 8. Rapporter
+
+
+asdasdasd
