@@ -20,5 +20,5 @@ We start this project, hoping it will be picked up by an institution that has th
 5. Create prompts (context and questions)
 6. Send prompts to various LLM systems (e.g. ChatGPT, Perplexity, Gemini, ...)
 7. Document responses
-8. Review the responses (do they contain bias)
+8. Review and score the responses (do they contain bias)
 9. Report conclusions
