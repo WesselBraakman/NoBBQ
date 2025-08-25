@@ -16,11 +16,6 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 
 from openai import OpenAI
 
-# ---------------------------
-# 🔑 Hardcode your API key here
-OPENAI_API_KEY = "apikey"
-# ---------------------------
-
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 LABEL_PATTERN = re.compile(r"\bans\d+\b", flags=re.IGNORECASE)
