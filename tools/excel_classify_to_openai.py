@@ -60,7 +60,6 @@ def call_openai_strict_label(prompt: str, model: str) -> str:
         resp = client.responses.create(
             model=model,
             input=prompt,   # ✅ use input instead of messages
-            temperature=0,
         )
 
         output_text = getattr(resp, "output_text", None)
