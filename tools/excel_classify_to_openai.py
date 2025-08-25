@@ -18,7 +18,7 @@ from openai import OpenAI
 
 # ---------------------------
 # 🔑 Hardcode your API key here
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "apikey"
 # ---------------------------
 
 client = OpenAI(api_key=OPENAI_API_KEY)
