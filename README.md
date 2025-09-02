@@ -23,8 +23,8 @@ We start this project, hoping it will trigger interest so we can take this to a 
 
 **Progress:**
 Progress can be tracked by either
-- Checking our repository regularly
-- Reading our blogs on Medium:
-    Blog 1: https://medium.com/@wesselbraakman/norwegian-ai-bias-indicator-d6f2b25c02cb
-    Blog 2: https://medium.com/@wesselbraakman/norwegian-ai-bias-indicator-pt-2-3d16376a542a
-    Blog 3: in progress
+- **Checking our repository regularly**
+- **Reading our blogs on Medium:**
+- Blog 1: https://medium.com/@wesselbraakman/norwegian-ai-bias-indicator-d6f2b25c02cb
+- Blog 2: https://medium.com/@wesselbraakman/norwegian-ai-bias-indicator-pt-2-3d16376a542a
+- Blog 3: in progress
