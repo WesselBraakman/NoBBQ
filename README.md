@@ -1,5 +1,3 @@
-<img width="863" height="383" alt="image" src="https://github.com/user-attachments/assets/2228211f-1400-4263-8c43-667445ac747d" /># NoBBQ
-
 **We are using the following research/repo as a basis for our Norwegian version of the same thing;**
 - https://github.com/nyu-mll/BBQ/blob/main/README.md
 
