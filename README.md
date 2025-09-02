@@ -8,7 +8,7 @@
 - Teresa Dalen Herland
 
 **Note that this is a PoC type of project, nothing here is set in stone and all conclusions from this project are NOT based on empirical/scientifical evidence.
-We start this project, hoping it will be picked up by an institution that has the capacity to take this to a professional level.**
+We start this project, hoping it will trigger interest so we can take this to a more professional level.**
 
 **Steps:**
 1. Download raw JSONL files from the original BBQ repository (per category)
